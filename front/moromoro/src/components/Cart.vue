@@ -84,7 +84,7 @@
         <button class="cart_bigorderbtn right">주문하기</button>
       </div>
     </section>
-    <div>{{ cartData }}</div>
+    
     
   </template>
   
