@@ -5,11 +5,11 @@ spring:
 #    username: "root"
     username: "root"
 #    password: ""
-    password: "3441"
+    password: "dasmkemamawwleee3441"
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
-      ddl-auto: none
+      ddl-auto: update
     properties:
       hibernate:
         show_sql: true
